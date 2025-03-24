@@ -20,7 +20,7 @@ public class Conexao {
                 dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
                 dataSource.setUrl("jdbc:mysql://localhost:3306/TesteLogin?useTimezone=true&serverTimezone=UTC");
                 dataSource.setUsername("root");
-                dataSource.setPassword("*1978atmos1984");
+                dataSource.setPassword("*1978atmos1984#");
                 return dataSource;
 
         }
